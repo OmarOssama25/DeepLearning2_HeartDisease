@@ -82,7 +82,7 @@ The model achieves an accuracy of approximately 85% on the test set, demonstrati
 
 ## Contributors
 
-[Your Name]
+Omar Ossama
 
 ## License
 
