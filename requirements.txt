@@ -1,0 +1,7 @@
+tensorflow==2.13.0  # or your specific TensorFlow version
+keras-tuner==1.3.5  # or your specific Keras Tuner version
+numpy==1.24.3  # or the version you have installed
+pandas==2.0.3  # or the version you have installed
+matplotlib==3.7.2  # or the version you have installed
+seaborn==0.12.2  # or the version you have installed
+scikit-learn==1.2.2  # or the version you have installed
