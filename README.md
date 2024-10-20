@@ -71,7 +71,7 @@ The notebook is structured as follows[1]:
 
 ## Results
 
-The model achieves an accuracy of approximately 85% on the test set, demonstrating its effectiveness in predicting heart disease based on the given health indicators[1].
+The model achieves an accuracy of approximately 90.92% on the test set, demonstrating its effectiveness in predicting heart disease based on the given health indicators[1].
 
 ## Future Work
 
